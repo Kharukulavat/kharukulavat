@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Digital Engineering Student
 -----------------------------
 
-Hello there! 👋 I am Nipun, a passionate student with a keen interest in development. I enjoy coding and learning something new.
+Hello there! 👋 I am Nipun, a passionate student interested in development. I enjoy coding and learning something new.
 
-* 🌍  I'm based in Bangkok, Thaialnd
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nipunk0258@gmail.com](mailto:nipunk0258@gmail.com)
-* 🧠  I'm learning Python Masterlass, Machine Learning, Data Structure and Algorithms in Java, Web Development
+* 🧠  I'm learning Python Masterclass, Machine Learning, Data Structure and Algorithms in Java, and Web Development
 * 🤝  I'm open to collaborating on exciting projects or discussing ideas.
 * ⚡  Looking forward to building something awesome together! 🚀
 
