@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nipun Kharuehapaisarn
 =============================================================================================================================================
 
-A Digital Engineering Student
+A Computer Engineering Student
 -----------------------------
 
-Hello there! 👋 I am Nipun, a passionate student interested in development. I enjoy coding and learning something new.
+Full-time SIIT student on an exciting journey towards a Computer Engineering degree, constantly seeking to learn and grow.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nipunk0258@gmail.com](mailto:nipunk0258@gmail.com)
