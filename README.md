@@ -8,7 +8,7 @@ Full-time SIIT student on an exciting journey towards a Computer Engineering deg
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nipunk0258@gmail.com](mailto:nipunk0258@gmail.com)
-* 🧠  I'm learning Python Masterclass, Machine Learning, Data Structure and Algorithms in Java, and Web Development
+* 🧠  I'm learning Python Masterclass, Machine Learning, Data Structure & Algorithms in Java, and Web Development
 * 🤝  I'm open to collaborating on exciting projects or discussing ideas.
 * ⚡  Looking forward to building something awesome together! 🚀
 
