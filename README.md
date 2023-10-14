@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Computer Engineering Student
 -----------------------------
 
-Full-time SIIT student on an exciting journey towards a Computer Engineering degree, constantly seeking to learn and grow.
+Full-time SIIT student on a journey towards a Computer Engineering degree, constantly seeking to learn and grow.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [nipunk0258@gmail.com](mailto:nipunk0258@gmail.com)
